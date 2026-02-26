@@ -31,7 +31,7 @@ const Header = ({ onBookDemo }) => {
           {/* Logo */}
           <div className="flex items-center cursor-pointer" onClick={() => scrollToSection('home')}>
             <img 
-              src="https://customer-assets.tekvionglobal.com/job_agent-demo-form/artifacts/4fsov4ot_Tekvion_Global_Final_Logo-removebg-preview.png" 
+              src="https://customer-assets.emergentagent.com/job_agent-demo-form/artifacts/4fsov4ot_Tekvion_Global_Final_Logo-removebg-preview.png" 
               alt="Tekvion Global Logo" 
               className="h-9 w-auto"
             />
