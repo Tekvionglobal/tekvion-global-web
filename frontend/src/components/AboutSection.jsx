@@ -14,7 +14,7 @@ const AboutSection = () => {
           <Card className="border-0 shadow-lg hover:shadow-xl transition-shadow duration-300">
             <CardContent className="p-6">
               <p className="text-gray-700 leading-relaxed">
-                Combines technical expertise, industry knowledge, and a client-first mindset to deliver scalable IT solutions.
+                With a blend of advanced technology skills, proven domain experience, and a customer-centric mindset, we create IT solutions that grow with your business.
               </p>
             </CardContent>
           </Card>
