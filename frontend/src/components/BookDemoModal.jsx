@@ -111,7 +111,7 @@ const BookDemoModal = ({ isOpen, onClose }) => {
     <Dialog open={isOpen} onOpenChange={onClose}>
       <DialogContent className="sm:max-w-[500px]">
         <DialogHeader>
-          <DialogTitle className="text-2xl font-bold text-gray-900">Book a Demo</DialogTitle>
+          <DialogTitle className="text-2xl font-bold text-gray-900">Free Consultation</DialogTitle>
           <DialogDescription className="text-gray-600">
             Fill in the details below and we'll get back to you shortly.
           </DialogDescription>
