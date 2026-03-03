@@ -41,7 +41,7 @@ const ContactSection = ({ onBookDemo }) => {
           onClick={onBookDemo}
           className="bg-white text-blue-600 hover:bg-gray-100 px-12 py-6 text-lg rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 font-semibold"
         >
-          Book a Demo
+          Get Expert Help
         </Button>
       </div>
     </section>
